@@ -8541,3 +8541,10 @@ textarea.form-control {
   100% {
     stroke-dasharray: 89, 200;
     stroke-dashoffset: -136px; } }
+
+
+    h6, p {
+      margin-top: 0;
+      margin-bottom: 0;
+      line-height: /* adjust to tweak wierd fonts */;
+      }
