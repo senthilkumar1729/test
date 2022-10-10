@@ -8451,6 +8451,19 @@ textarea.form-control {
       color: #000000;
       font-style: italic; }
 
+
+
+
+h6.bold {
+  font-weight: bold;
+}
+
+
+
+
+
+
+
 #ftco-loader {
   position: fixed;
   width: 96px;
