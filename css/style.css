@@ -8451,6 +8451,27 @@ textarea.form-control {
       color: #000000;
       font-style: italic; }
 
+
+
+
+h6.bold {
+  font-weight: bold;
+}
+
+
+
+h6.thick {
+  font-weight: bold;
+}
+
+
+.thick {
+  font-weight: bold;
+}
+
+
+
+
 #ftco-loader {
   position: fixed;
   width: 96px;
@@ -8541,3 +8562,10 @@ textarea.form-control {
   100% {
     stroke-dasharray: 89, 200;
     stroke-dashoffset: -136px; } }
+
+
+    h6, p {
+      margin-top: 0;
+      margin-bottom: 0;
+      line-height: /* adjust to tweak wierd fonts */;
+      }
